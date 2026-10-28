@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Dhyan V A
+# 👋🏻Hi, I'm Dhyan V A
 
 ### AI/ML Undergraduate • Software Developer • Full-Stack Enthusiast
 
@@ -85,7 +85,7 @@ A restaurant analytics dashboard concept designed to turn operational data into 
 
 **Focus:** Data Analytics • Dashboards • Data Visualization
 
-### 💪 Gym Forge
+### 💪🏻 Gym Forge
 
 A fitness-focused application concept for organizing workout routines and tracking progress.
 
